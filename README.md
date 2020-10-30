@@ -1,8 +1,8 @@
-### This my ADM-HW-1 with solutions for HackerRank tasks 
+# This my ADM-HW-1 with solutions for HackerRank tasks 
 
 ## Folder includes solutions for
 
-# Question 1
+### Question 1
 
 1. Introduction
 
@@ -31,7 +31,7 @@
 	
 	[Py_Functionals_Source](https://www.hackerrank.com/challenges/map-and-lambda-expression)
 	
-# Question 2
+### Question 2
 
 1. Birthday Cake Candles
 	
