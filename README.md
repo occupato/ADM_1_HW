@@ -51,6 +51,6 @@
 
 	File contains list of scripts created in Jupyter Notebook
 	
-2. Shermati.pdf
+3. stamps/shermati.pdf
 
 	File contains sumbissions from HackerRanck
