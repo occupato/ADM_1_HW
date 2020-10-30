@@ -47,7 +47,7 @@
 
 	File contains description of folder
 
-2. ADM-HW-1.ipynb 
+2. scripts.ipynb 
 
 	File contains list of scripts created in Jupyter Notebook
 	
